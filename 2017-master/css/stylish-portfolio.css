@@ -162,6 +162,7 @@ hr.small {
 /* Header */
 
 .header {
+    padding-right: 15px;
     display: table;
     position: relative;
     width: 100%;
