@@ -15,12 +15,15 @@ body {
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+.naslovboja{
+    color: white;
+}
 
 .text-color-blue {
-	color:#E81E00;
+	color: #337ab7;
 }
 .text-color-blue a {
-	color:#E81E00;
+    color :#337ab7;
 }
 
 .text-vertical-center {
@@ -333,7 +336,8 @@ footer {
 }
 
 a {
-    color: #E81E00;
+    color: #337ab7;
+    text-decoration: underline;
 }
 
 a:focus, a:hover {
@@ -383,4 +387,5 @@ a:focus, a:hover {
     width: 100%;
     height: 100%;
 }
+
 
