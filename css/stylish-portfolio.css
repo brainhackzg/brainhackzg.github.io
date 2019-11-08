@@ -17,10 +17,10 @@ body {
 }
 
 .text-color-blue {
-	color:#337ab7;
+	color:#E81E00;
 }
 .text-color-blue a {
-	color:#337ab7;
+	color:#E81E00;
 }
 
 .text-vertical-center {
@@ -167,7 +167,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/background.jpg) no-repeat center center scroll;
+    background: url(../img/background-min.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -179,6 +179,8 @@ hr.small {
 .about {
     padding: 50px 0;
 }
+
+
 
 /* Sponsors */
 #sponsors {
@@ -257,7 +259,7 @@ hr.small {
     height: 400px;
     color: #fff;
     font-family: 'Comfortaa', cursive;
-    background: url(../img/workspace.jpg) no-repeat center center scroll;
+    background: url(../img/background-min.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -319,6 +321,9 @@ hr.small {
     .map {
         height: 75%;
     }
+    img.slikamozak{
+        height:30rem;
+    }
 }
 
 /* Footer */
@@ -328,7 +333,7 @@ footer {
 }
 
 a {
-    color: #337ab7;
+    color: #E81E00;
 }
 
 a:focus, a:hover {
@@ -378,3 +383,4 @@ a:focus, a:hover {
     width: 100%;
     height: 100%;
 }
+
