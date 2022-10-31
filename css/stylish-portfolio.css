@@ -316,6 +316,10 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.title {
+    font-size: 120px;
+}
+
 /* Callout */
 
 .callout {
