@@ -278,6 +278,21 @@ hr.small {
   to {opacity: 1}
 }
 
+/* Programme */
+
+#programme {
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Comfortaa', cursive;
+    background-color: #4EADF2;
+    padding: 20px 0;
+
+}
+
+.programme-item {
+    padding: 30px;
+}
+
 /* Sponsors */
 #sponsors {
     /*padding: 50px 0;*/
