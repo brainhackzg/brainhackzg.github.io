@@ -16,7 +16,7 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .naslovboja{
-    color: white;
+    color: #2b2d42;
 }
 
 .text-color-blue {
@@ -284,7 +284,7 @@ hr.small {
     text-align: center;
     vertical-align: middle;
     font-family: 'Comfortaa', cursive;
-    background-color: #4EADF2;
+    background-color: #edf2f4;
     padding: 20px 0;
 
 }
@@ -304,7 +304,7 @@ hr.small {
 /* Services */
 
 .details {
-    background-color: #0B273A;
+    background-color: #8D99AE;
     padding: 20px 0;
 	font-family: 'Comfortaa', cursive;
     
@@ -333,6 +333,7 @@ hr.small {
 
 .title {
     font-size: 900%;
+    color: #2b2d42
 }
 
 /* Callout */
