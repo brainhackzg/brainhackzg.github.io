@@ -171,7 +171,6 @@ hr.small {
     width: 100%;
     height: 100%;
     background: url(../img/background.png) no-repeat center center scroll;
-    background-position-y: -50px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -289,7 +288,7 @@ hr.small {
     text-align: center;
     vertical-align: middle;
     font-family: 'Comfortaa', cursive;
-    background-color: #0047AB;
+    background-color: #2B2D42;
     padding: 20px 0;
 
 }
@@ -316,7 +315,7 @@ hr.small {
 }
 
 .text-primary{
-    color:#0047AB
+    color:#2B2D42
 }
 
 .fa-circle{
@@ -328,7 +327,7 @@ hr.small {
 .services {
     padding: 50px 0;
 	font-family: 'Comfortaa', cursive;
-    background-color: #0047AB;
+    background-color: #2B2D42;
 }
 
 .services a {
@@ -369,7 +368,7 @@ hr.small {
     display: table;
     width: 100%;
     height: 400px;
-    color: #000;
+    color: #2B2D42;
     font-family: 'Comfortaa', cursive;
     background: url(../img/location_logo.png) no-repeat center center scroll;
     -webkit-background-size: auto;
@@ -394,7 +393,6 @@ hr.small {
     height: 400px;
     color: #fff;
     font-family: 'Comfortaa', cursive;
-    background: url(../img/background-min.png) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
